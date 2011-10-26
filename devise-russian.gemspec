@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "devise-russian"
   s.version     = Devise::Russian::VERSION
   s.authors     = ["Andrey Korobkov"]
-  s.email       = ["korobkov@fryxell.ru"]
+  s.email       = ["korobkov@fryxell.info"]
   s.homepage    = "https://github.com/korobkov/devise-russian"
   s.summary     = %q{Russian language support for devise}
   s.description = %q{Russian language support for devise}
