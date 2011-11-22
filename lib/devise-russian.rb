@@ -1,8 +1,6 @@
-require "devise-russian/version"
+require "devise-russian/engine"
 
 module Devise
   module Russian
-    class Engine < Rails::Engine
-    end
   end
 end
